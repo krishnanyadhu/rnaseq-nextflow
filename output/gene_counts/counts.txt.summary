@@ -1,0 +1,15 @@
+Status	ENCSR000COQ1_sorted.bam	ENCSR000COQ2_sorted.bam	ENCSR000COR1_sorted.bam	ENCSR000COR2_sorted.bam	ENCSR000CPO2_sorted.bam	ENCSR000CPO1_sorted.bam
+Assigned	6080	3238	8848	7929	7886	8579
+Unassigned_Unmapped	713	595	1148	715	2090	2058
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	3548	1672	10330	7087	24813	15642
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	19799	14232	24795	18006	25214	26250
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	263	85	593	384	297	426

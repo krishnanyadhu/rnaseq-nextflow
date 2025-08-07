@@ -1,0 +1,56 @@
+RNA-Seq QC report
+-----------------------------------
+
+>>>>>>> Input
+
+    bam file = ENCSR000CPO2_sorted.bam
+    gff file = 22.gtf
+    counting algorithm = uniquely-mapped-reads
+    protocol = non-strand-specific
+    5'-3' bias region size = 100
+    5'-3' bias number of top transcripts = 1000
+
+
+>>>>>>> Reads alignment
+
+    reads aligned  = 75,363
+    total alignments = 108,971
+    secondary alignments = 33,608
+    non-unique alignments = 44,485
+    aligned to genes  = 6,045
+    ambiguous alignments = 133
+    no feature assigned = 58,308
+    not aligned = 6,607
+    SSP estimation (fwd/rev) = 0.2 / 0.8
+
+
+>>>>>>> Reads genomic origin
+
+    exonic =  6,045 (9.39%)
+    intronic = 53,690 (83.43%)
+    intergenic = 4,618 (7.18%)
+    overlapping exon = 4,987 (7.75%)
+
+
+>>>>>>> Transcript coverage profile
+
+    5' bias = 0.03
+    3' bias = 0.28
+    5'-3' bias = 0.06
+
+
+>>>>>>> Junction analysis
+
+    reads at junctions = 6,130
+
+    ACCT : 37.85%
+    CGCC : 5.19%
+    CACC : 5.17%
+    GGCG : 4.54%
+    GTCC : 4.27%
+    GGGT : 3.64%
+    CCCT : 3.05%
+    GGAC : 2.95%
+    CGGG : 2.84%
+    AGAA : 2.74%
+    CGAT : 1.94%
